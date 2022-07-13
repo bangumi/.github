@@ -1,4 +1,4 @@
-欢迎来到 bangumi 开源仓库。
+欢迎来到 bangumi 开源项目。
 
 [开放API文档](https://bangumi.github.io/api/)
 
